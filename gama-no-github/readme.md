@@ -1,0 +1,1 @@
+O curso Hiring Coders tem sido bem interessante na minha jornada de aproximacão com a tecnologia, gostei bastante dos módulos conceituais e apesar de ter levado um bom tempo (e vários links de stack overflow) para descobrir, consegui conectar o Git ao Github com sucesso. Aguardo os próximos módulos com imensa curiosidade e felicidade por estar progradindo.
